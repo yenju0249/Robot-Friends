@@ -1,5 +1,5 @@
 To run the project:
 
-Clone this repo
-Run npm install
+1.Clone this repo
+2.Run npm install
 Run npm start
