@@ -10,6 +10,10 @@ function CardList({ robots }) {
     //         {roobotsArray}
     //     </div>
     // );
+    // test Error
+    // if (true){
+    //     throw new Error('Error Error ');
+    // }
     return (
         <div>
             {
