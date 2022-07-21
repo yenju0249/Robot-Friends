@@ -13,5 +13,5 @@ function SearchBox({ searchChange }) {
     );
 }
 
-//匯出一個值 匯出一個「值」
+// 匯出一個「值」
 export default SearchBox;

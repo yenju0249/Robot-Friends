@@ -11,26 +11,4 @@ function Card({ username, name, email }) {
     );
 }
 
-// const Hello = (props) => {
-//     return (
-//         <div className="f1 tc">
-//             <h1>Hello React 2</h1>
-//             <p>{props.greeting}, welcome to React </p>
-//         </div>
-//     );
-// }
-
-// class Hello extends Component {
-//     render() {
-//       return (
-//         <div className="f1 tc">
-//             <h1>Hello React</h1>
-//             <p>{this.props.greeting}, welcome to React </p>
-//         </div>
-//       );
-//     }
-//   }
-
-
-//匯出一個值 匯出一個「值」
 export default Card;
